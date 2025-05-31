@@ -1,16 +1,16 @@
-## Hi there 👋
+# B2W-MKE: Bike to Work Tracker
 
-<!--
-**b2w-mke/b2w-mke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B2W-MKE** is a web app built to track their bike-to-work mileage. Users can register, join teams, and compete in friendly commuting challenges.
 
-Here are some ideas to get you started:
+This app is built using **Vite + React** on the frontend and **Firebase** for authentication and database services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Features
+
+- 📅 Daily bike ride logging with optional notes
+- 👥 Team creation and management
+- 🏆 Leaderboards and competition tracking (coming soon)
+- 🔐 Secure login with Firebase Authentication
+
+---
